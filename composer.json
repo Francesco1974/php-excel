@@ -1,6 +1,13 @@
 {
     "name": "fsdev/php-excel",
     "description": "PHPExcel versione MIC",
+    "license": "LGPL-2.1-or-later",
+    "authors": [
+        {
+            "name": "FSDev",
+            "email": "fsdev@fsdev.com"
+        }
+    ],   
     "autoload": {
         "psr-4": {
             "PHPExcel\\": "src/"
