@@ -1,5 +1,5 @@
 {
-    "name": "Francesco1974/php-excel",
+    "name": "fsdev/php-excel",
     "description": "PHPExcel versione MIC",
     "autoload": {
         "psr-4": {
