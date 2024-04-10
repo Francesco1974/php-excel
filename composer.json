@@ -1,8 +1,11 @@
 {
-    "name": "fsdev/php-excel",
+    "name": "Francesco1974/php-excel",
     "description": "PHPExcel versione MIC",
-    "type": "library",
-    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PHPExcel\\": "src/"
+        }
+    },
     "minimum-stability": "stable",
-    "require": {}
+    "prefer-stable": true
 }

@@ -25,6 +25,7 @@
  * @version    1.8.0, 2014-03-02
  */
 
+namespace PHPExcel;
 
 /** PHPExcel root directory */
 if (!defined('PHPEXCEL_ROOT')) {
